@@ -1,0 +1,7 @@
+{
+  "name": "AR Object Lens",
+  "description": "An augmented reality application that uses the device camera to continuously detect objects in the real world and displays information about them as an overlay, similar to Google Lens.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
